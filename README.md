@@ -11,6 +11,8 @@ A simple command-line To-Do List manager built with Python and JSON for local st
 - 💾 Automatically saves data in `todo.json`
 
 👤 Author
+
+
 Rajesh Benarjee
 
 
